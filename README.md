@@ -7,8 +7,6 @@
 🛠 Skilled in C#, .NET, JavaScript/TypeScript and React <br>
 📚 Currently preparing for developer interviews <br>
 🚀 Interested in backend architectures, cloud systems, and efficient software design
-
-<br>
 <!--Tech Stack-->
 
 # 💻 Tech Stack:
