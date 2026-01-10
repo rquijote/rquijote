@@ -2,7 +2,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 👋 Hi, I'm Rino!
-💻 Backend-focused Software Developer building scalable and maintainable web applications <br>
+💻 Full-Stack Software Developer building scalable and maintainable web applications <br>
 🎓 Computer Science graduate from Swinburne University of Technology, Melbourne <br>
 🛠 Skilled in C#, .NET, JavaScript/TypeScript and React <br>
 📚 Currently preparing for developer interviews <br>
